@@ -1,0 +1,15 @@
+.circle {
+  background-color: #fff9db;
+}
+.button.main,
+.section.main {
+  background-color: #f59f00;
+  color: #212529;
+}
+a,
+.button.xl.main.white {
+  color: #e67700;
+}
+.u {
+  border-color: #ffec99;
+}
